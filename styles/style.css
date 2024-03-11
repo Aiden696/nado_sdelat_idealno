@@ -18,7 +18,6 @@ body {
     min-width: 800px;
     margin: 0 auto;
     display: flex;
-    overflow: hidden;
 }
 
 body::before {
