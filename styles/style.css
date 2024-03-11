@@ -67,7 +67,7 @@ body::before {
     white-space: pre;
     position: absolute;
     top: 180px;
-    left: 404px;
+    right: 20px;
     padding: 36px 44px;
     font-family: Raleway;
     font-size: 35px;
